@@ -17,7 +17,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.17.1
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.53.0
 	github.com/aws/smithy-go v1.12.1
-	github.com/docker/docker v20.10.7+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/dustin/go-humanize v1.0.0
 	github.com/emicklei/go-restful v2.16.0+incompatible
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
@@ -37,7 +37,7 @@ require (
 	github.com/pingcap/kvproto v0.0.0-20200927054727-1290113160f0
 	github.com/pingcap/tidb-operator/pkg/apis v1.6.0-alpha.8
 	github.com/pingcap/tidb-operator/pkg/client v1.6.0-alpha.8
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.28.0
 	github.com/prometheus/prom2json v1.3.0
@@ -137,7 +137,6 @@ require (
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
 	github.com/chai2010/gettext-go v0.0.0-20170215093142-bf70f2a70fb1 // indirect
-	github.com/containerd/containerd v1.5.18 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dimchansky/utfbom v1.1.0 // indirect

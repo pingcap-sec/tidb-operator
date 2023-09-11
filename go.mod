@@ -37,7 +37,7 @@ require (
 	github.com/pingcap/kvproto v0.0.0-20200927054727-1290113160f0
 	github.com/pingcap/tidb-operator/pkg/apis v1.6.0-alpha.8
 	github.com/pingcap/tidb-operator/pkg/client v1.6.0-alpha.8
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.28.0
 	github.com/prometheus/prom2json v1.3.0
